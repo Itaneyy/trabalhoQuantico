@@ -6,7 +6,7 @@
 3. Parte 1 — Busca clássica
 4. Parte 2 — Busca quântica (Grover, 2 qubits)
 5. Parte 3 — Análise comparativa
-6. Entrega
+
 
 ---
 
