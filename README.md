@@ -1,7 +1,4 @@
 # Trabalho Prático — Busca Clássica vs. Algoritmo de Grover (N = 4)
-
-**Entrega:** Código (Notebook)
-
 ## Sumário
 
 1. Objetivo
@@ -145,11 +142,3 @@ Compare as duas abordagens pelo número de consultas, preenchendo uma tabela com
 
 ---
 
-# 6. Entrega
-
-Entregar um **Notebook (`.ipynb`)** contendo:
-
-- Código da Parte 1 (busca clássica);
-- Código da Parte 2 (algoritmo de Grover em Qiskit);
-- Histograma das medições;
-- Respostas e análise da Parte 3.
